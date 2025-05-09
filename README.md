@@ -1,5 +1,6 @@
 # FE 620 Pricing Asian Options for US Brent Crude Oil Futures
 Authors: Shyam Parikh, Matthew Thomas, Shubh Joshi, and Karen Gong
+
 We researched the aread of Asian Option Pricing. For our experiment, we gathered data from Brent Crude Oil Futures(BZ=F).
 To conduct our experiment, we specifically started off with trying to model Asian options using Binomial tree Methods, 
 however, that proved to be inefficient. Then, we moved on to implementing Monte-Carlo Methods and validating them through 
