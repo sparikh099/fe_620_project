@@ -8,8 +8,9 @@ Averaged Options.  From there, we worked on hedging analysis using both regular 
 Options, and then Dynamic Delta Hedging for the Geometrically Averaged Options.
 
 Key Locations: 
-If you go into src, you will find our code, listed as an HTML file and also a Jupyter Notebook. You can view the HTML file
-on your browser if you are interested in viewing our code.
+If you go into src, you will find our code, listed as an HTML file, PDF file, and also a Jupyter Notebook. You can view the PDF file
+on your browser if you are interested in viewing our code. However,  if you would like to play with out code, feel free to use the
+Jupyter Notebook.
 
 Workflow: 
 The following information is all not too accurate
